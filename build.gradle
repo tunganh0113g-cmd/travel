@@ -1,0 +1,12 @@
+plugins {
+    id 'me.forkleaf.forkleaf' version '1.21.4'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Define your project dependencies here
+    implementation 'org.example:example:1.0'
+}
