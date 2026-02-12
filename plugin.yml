@@ -1,0 +1,6 @@
+name: ExamplePlugin
+version: 1.0.0
+author: tunganh0113g-cmd
+description: This is an example plugin.
+main: ExamplePlugin.java
+api-version: 1.0
